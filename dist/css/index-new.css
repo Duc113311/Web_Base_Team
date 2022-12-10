@@ -17,6 +17,10 @@
 /* New */
 
 .scroll-news {
-  height: calc(100vh - 260px);
+  height: calc(100vh - 250px);
   overflow-y: scroll;
+}
+
+.bg-header-form {
+  background-color: #b5d8f7;
 }
